@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Full Stack.
 - 💞️ I’m looking to collaborate or possibly work together on projects.
 - 📫 How to reach me rodswebdeveloping@gmail.com.
+- Btw I'm a newbie!!
 
 <!---
 rodswebdeveloping/rodswebdeveloping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
